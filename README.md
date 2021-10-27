@@ -16,7 +16,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020
 ### Citation
 If this code is useful to you, we sincerely hope that you can cite our paper 
 
-[bibtex:] 
+[bibtex] 
 
 ```
 @article{nie2020truncated,
